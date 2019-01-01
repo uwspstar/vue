@@ -1,6 +1,6 @@
 # Vue
 
-### Vue vscode plugin
+### Vue VSCode plugin
 - Vetur
 - Live Server
 - Monokai
