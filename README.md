@@ -3,4 +3,4 @@
 ### Vue VSCode plugin
 - Vetur
 - Live Server
-- Monokai
+- Monokai++
